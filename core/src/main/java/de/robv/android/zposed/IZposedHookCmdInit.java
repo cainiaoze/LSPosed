@@ -27,7 +27,7 @@ package de.robv.android.zposed;
  * @hide Xposed no longer hooks command-line tools, therefore this interface shouldn't be
  * implemented anymore.
  */
-public interface IZposedHookCmdInit. extends IZposedMod {
+public interface IZposedHookCmdInit extends IZposedMod {
     /**
      * Called very early during startup of a command-line tool.
      *

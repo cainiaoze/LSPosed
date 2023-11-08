@@ -1,4 +1,4 @@
--keep class de.robv.android.xposed.** {*;}
+-keep class de.robv.android.zposed.** {*;}
 -keep class io.github.libxposed.** {*;}
 -keepattributes RuntimeVisibleAnnotations
 -keep class android.** { *; }
