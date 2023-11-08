@@ -2,7 +2,7 @@ package de.robv.android.zposed;
 
 import android.app.Application;
 
-import de.robv.android.zposedcallbacks.XC_LoadPackage;
+import de.robv.android.zposed.callbacks.XC_LoadPackage;
 import de.robv.android.zposed.callbacks.XC_LoadPackage.LoadPackageParam;
 
 /**
